@@ -1,4 +1,7 @@
 # Présentation 3AL1
 
-- domingo - intervenant - Flan pâtissier
 - anonm - étudiant - pates
+- darksasuke - etudiant - Lasagnes
+- domingo - intervenant - Flan pâtissier
+- miller - etudiant - croziflette
+- userMeh - etudiant - idk
