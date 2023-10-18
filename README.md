@@ -2,6 +2,7 @@
 
 - aaa - etudiant - Riz
 - aea - etudiant - Paris-Brest
+- alassane400 - etudiant - brownie
 - anon - etudiant - Tarte au flan
 - anonm - etudiant - pates
 - cams - etudiant - loutre
