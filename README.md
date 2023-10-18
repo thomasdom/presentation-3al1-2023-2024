@@ -20,7 +20,7 @@
 - thetrain - etudiant - croissant
 - tresbien - etudiant - protéines
 - userMeh - etudiant - idk
-- vanande - etudiant - Tomahawk
+- vanande - Modo meilleur que le prof - Tomahawk
 - vanandos - etudiant - carte graphique
 - vegeta - etudient - KFC
 - wissem - etudiant - polistirene
