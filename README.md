@@ -18,13 +18,12 @@
 - metololo - etudiant - fruits
 - miller - etudiant - croziflette
 - milowo - etudiant - crepes
+- mok - etudiant - elephant
 - moutoo - etudiant - souris
-- tresbien - etudiant - protéines
-- userMeh - etudiant - idk
 - obs - etudiant - tarte aux pommes
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
-- tresbien - etudiant - proteines
+- tresbien - etudiant - protéines
 - userMeh - etudiant - idk
 - vanande - Modo meilleur que le prof - Tomahawk
 - vanandos - etudiant - carte graphique
