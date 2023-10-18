@@ -4,6 +4,7 @@
 - aea - etudiant - Paris-Brest
 - anon - etudiant - Tarte au flan
 - anonm - etudiant - pates
+- alassane400 - etudiant - brownie
 - cams - etudiant - loutre
 - benito - etudiant - tiramisu
 - bradpat - etudiant - muffins
