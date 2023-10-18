@@ -20,9 +20,9 @@
 - thetrain - etudiant - croissant
 - tresbien - etudiant - protéines
 - userMeh - etudiant - idk
+- vanande - etudiant - Tomahawk
 - vanandos - etudiant - carte graphique
 - vegeta - etudient - KFC
-- vanande - etudiant - Tomahawk
 - wissem - etudiant - polistirene
 - wissdx - etudiant - raclette
 
