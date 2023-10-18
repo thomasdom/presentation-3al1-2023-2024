@@ -13,7 +13,7 @@
 - jillakd - etudiant - koththu parotta
 - mavix - etudiant - la même chose que vanande
 - metololo - etudiant - fruits
-- miller - etudiant - croziflette 
+- miller - etudiant - croziflette
 - milowo - etudiant - crepes
 - obs - etudiant - tarte aux pommes
 - ptitFlan - etudiant - Panini poulet
@@ -25,4 +25,3 @@
 - vegeta - etudient - KFC
 - wissem - etudiant - polistirene
 - wissdx - etudiant - raclette
-
