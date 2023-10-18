@@ -1,13 +1,12 @@
 # Présentation 3AL1
-
+- aaa - etudiant - Riz
 - anonm - etudiant - pates
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
 - evrard - etudiant - javel
 - mavix - etudiant - la même chose que vanande
 - metololo - etudiant - fruits
-- miller - etudiant - croziflette 
--bradpat-etudiant-muffins
+- miller - etudiant - croziflette
 - milowo - etudiant - crepes
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
