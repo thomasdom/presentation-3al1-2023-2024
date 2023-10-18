@@ -5,7 +5,7 @@
 - evrard - etudiant - javel
 - metololo - etudiant - fruits
 - miller - etudiant - croziflette
-- Wissem - etudiant - polistirene
-- milowo - etudiant - crepeos
+- milowo - etudiant - crepes
+- ptitFlan - etudiant - Panini poulet
 - userMeh - etudiant - idk
-
+- Wissem - etudiant - polistirene
