@@ -8,5 +8,6 @@
 - miller - etudiant - croziflette
 - milowo - etudiant - crepes
 - ptitFlan - etudiant - Panini poulet
+- thetrain - etudiant - croissant
 - userMeh - etudiant - idk
 - vanande - etudiant - Tomahawk
