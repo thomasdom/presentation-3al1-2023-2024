@@ -11,5 +11,6 @@
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
 - userMeh - etudiant - idk
+- vegeta - etudient - KFC
 - vanande - etudiant - Tomahawk
 - wissdx - etudiant - raclette
