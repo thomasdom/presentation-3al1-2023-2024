@@ -15,6 +15,7 @@
 - milowo - etudiant - crepes
 - tresbien - etudiant - protéines
 - userMeh - etudiant - idk
+- moutoo - etudiant - souris
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
 - userMeh - etudiant - idk
