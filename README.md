@@ -1,5 +1,6 @@
 # Présentation 3AL1
 
+- aea - etudiant - Paris-Brest
 - anonm - etudiant - pates
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
@@ -11,9 +12,8 @@
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
 - userMeh - etudiant - idk
-<<<<<<< HEAD
 - vanandos - etudiant - carte graphique
-=======
+- vegeta - etudient - KFC
 - vanande - etudiant - Tomahawk
 - wissdx - etudiant - raclette
->>>>>>> 9a7a4ce74305dc9298f988d75c6c74bcaa158679
+
