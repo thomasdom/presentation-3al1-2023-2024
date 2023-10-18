@@ -15,6 +15,8 @@
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
 - userMeh - etudiant - idk
+- vanandos - etudiant - carte graphique
 - vegeta - etudient - KFC
 - vanande - etudiant - Tomahawk
 - wissdx - etudiant - raclette
+
