@@ -4,6 +4,7 @@
 - anon - etudiant - Tarte au flan
 - anonm - etudiant - pates
 - benito - etudiant - tiramisu
+- bradpat - etudiant - muffins
 - clemclem - etudiant - soleil
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
@@ -11,12 +12,11 @@
 - mavix - etudiant - la même chose que vanande
 - metololo - etudiant - fruits
 - miller - etudiant - croziflette 
-- bradpat - etudiant - muffins
 - milowo - etudiant - crepes
-- tresbien - etudiant - protéines
-- userMeh - etudiant - idk
+- obs - etudiant - tarte aux pommes
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
+- tresbien - etudiant - protéines
 - userMeh - etudiant - idk
 - vanandos - etudiant - carte graphique
 - vegeta - etudient - KFC
