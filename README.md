@@ -1,6 +1,7 @@
 # Présentation 3AL1
 
 - aea - etudiant - Paris-Brest
+- anonm - etudiant - pates
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
 - evrard - etudiant - javel
