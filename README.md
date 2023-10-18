@@ -9,6 +9,7 @@
 - clemclem - etudiant - soleil
 - corsairsombre - etudiant - Gt2rs
 - darksasuke - etudiant - Lasagnes
+- dddd - etudiant - brownie
 - domingo - intervenant - Flan pâtissier
 - evrard - etudiant - javel
 - jillakd - etudiant - koththu parotta
