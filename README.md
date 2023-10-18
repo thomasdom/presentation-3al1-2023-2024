@@ -23,4 +23,6 @@
 - vanandos - etudiant - carte graphique
 - vegeta - etudient - KFC
 - vanande - etudiant - Tomahawk
+- wissem - etudiant - polistirene
 - wissdx - etudiant - raclette
+
