@@ -2,6 +2,8 @@
 
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
-- miller - etudiant - croziflette
-  
+- metololo - etudiant - fruits
+- miller - etudiant - croziflette 
 -bradpat-etudiant-muffins
+- milowo - etudiant - crepes
+- userMeh - etudiant - idk
