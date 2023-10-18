@@ -22,7 +22,7 @@
 - obs - etudiant - tarte aux pommes
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
-- tresbien - etudiant - protéines
+- tresbien - etudiant - proteines
 - userMeh - etudiant - idk
 - vanande - Modo meilleur que le prof - Tomahawk
 - vanandos - etudiant - carte graphique
