@@ -2,3 +2,4 @@
 
 - domingo - intervenant - Flan pâtissier
 - miller - etudiant - croziflette
+- wissdx - etudiant - raclette
