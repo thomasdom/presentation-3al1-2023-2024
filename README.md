@@ -3,5 +3,5 @@
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
 - miller - etudiant - croziflette
-- tresbien - étudiant - protéines
+- tresbien - etudiant - protéines
 - userMeh - etudiant - idk
