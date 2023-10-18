@@ -1,5 +1,6 @@
 # Présentation 3AL1
 
+- aaa - etudiant - Riz
 - aea - etudiant - Paris-Brest
 - anon - etudiant - Tarte au flan
 - anonm - etudiant - pates
