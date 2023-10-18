@@ -3,6 +3,7 @@
 - aea - etudiant - Paris-Brest
 - anon - etudiant - Tarte au flan
 - anonm - etudiant - pates
+- benito - etudiant - tiramisu
 - clemclem - etudiant - soleil
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
