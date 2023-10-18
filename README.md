@@ -6,6 +6,7 @@
 - benito - etudiant - tiramisu
 - bradpat - etudiant - muffins
 - clemclem - etudiant - soleil
+- corsairsombre - etudiant - Gt2rs
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
 - evrard - etudiant - javel
