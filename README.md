@@ -3,6 +3,7 @@
 - aea - etudiant - Paris-Brest
 - anon - etudiant - Tarte au flan
 - anonm - etudiant - pates
+- cams - etudiant - loutre
 - benito - etudiant - tiramisu
 - bradpat - etudiant - muffins
 - clemclem - etudiant - soleil
@@ -10,6 +11,7 @@
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
 - evrard - etudiant - javel
+- jillakd - etudiant - koththu parotta
 - mavix - etudiant - la même chose que vanande
 - metololo - etudiant - fruits
 - miller - etudiant - croziflette 
@@ -22,7 +24,9 @@
 - thetrain - etudiant - croissant
 - tresbien - etudiant - protéines
 - userMeh - etudiant - idk
+- vanande - Modo meilleur que le prof - Tomahawk
 - vanandos - etudiant - carte graphique
 - vegeta - etudient - KFC
-- vanande - etudiant - Tomahawk
+- wissem - etudiant - polistirene
 - wissdx - etudiant - raclette
+
