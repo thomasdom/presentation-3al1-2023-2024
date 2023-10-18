@@ -2,6 +2,7 @@
 
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
+- evrard - etudiant - javel
 - metololo - etudiant - fruits
 - miller - etudiant - croziflette
 - milowo - etudiant - crepes
