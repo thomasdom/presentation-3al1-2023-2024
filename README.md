@@ -6,3 +6,4 @@
 - miller - etudiant - croziflette
 - milowo - etudiant - crepes
 - userMeh - etudiant - idk
+- vegeta - etudient - KFC
