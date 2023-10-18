@@ -19,6 +19,7 @@
 - miller - etudiant - croziflette
 - milowo - etudiant - crepes
 - moutoo - etudiant - souris
+- thamila - etudiant - zoro
 - tresbien - etudiant - protéines
 - userMeh - etudiant - idk
 - obs - etudiant - tarte aux pommes
