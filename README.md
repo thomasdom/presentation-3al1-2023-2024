@@ -10,8 +10,10 @@
 - mavix - etudiant - la même chose que vanande
 - metololo - etudiant - fruits
 - miller - etudiant - croziflette 
--bradpat-etudiant-muffins
+- bradpat - etudiant - muffins
 - milowo - etudiant - crepes
+- tresbien - etudiant - protéines
+- userMeh - etudiant - idk
 - ptitFlan - etudiant - Panini poulet
 - thetrain - etudiant - croissant
 - userMeh - etudiant - idk
@@ -19,4 +21,3 @@
 - vegeta - etudient - KFC
 - vanande - etudiant - Tomahawk
 - wissdx - etudiant - raclette
-
