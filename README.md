@@ -3,6 +3,7 @@
 - aea - etudiant - Paris-Brest
 - anon - etudiant - Tarte au flan
 - anonm - etudiant - pates
+- cams - etudiant - loutre
 - benito - etudiant - tiramisu
 - bradpat - etudiant - muffins
 - clemclem - etudiant - soleil
