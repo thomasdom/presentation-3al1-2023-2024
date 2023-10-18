@@ -16,6 +16,6 @@
 - userMeh - etudiant - idk
 - vegeta - etudient - KFC
 - vanande - etudiant - Tomahawk
-- Wissem - etudiant - polistirene
+- wissem - etudiant - polistirene
 - wissdx - etudiant - raclette
 
