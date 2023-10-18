@@ -22,6 +22,7 @@
 - moutoo - etudiant - souris
 - obs - etudiant - tarte aux pommes
 - ptitFlan - etudiant - Panini poulet
+- thamila - etudiant - zoro
 - thetrain - etudiant - croissant
 - tresbien - etudiant - protéines
 - userMeh - etudiant - idk
