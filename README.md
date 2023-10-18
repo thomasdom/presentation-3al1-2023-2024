@@ -5,3 +5,4 @@
 - metololo - etudiant - fruits
 - miller - etudiant - croziflette
 - userMeh - etudiant - idk
+- vanandos - etudiant - carte graphique
