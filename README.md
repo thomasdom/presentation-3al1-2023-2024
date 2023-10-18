@@ -1,5 +1,6 @@
 # Présentation 3AL1
 
+- anonm - etudiant - pates
 - darksasuke - etudiant - Lasagnes
 - domingo - intervenant - Flan pâtissier
 - evrard - etudiant - javel
